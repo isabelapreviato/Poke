@@ -10,4 +10,4 @@ pokebase==1.2.0
 pytz==2019.1
 requests==2.19.1
 sqlparse==0.3.0
-urllib3==1.23
+urllib3==1.26.5
